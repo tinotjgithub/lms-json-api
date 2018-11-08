@@ -64,10 +64,10 @@
     }
   ],
   "category": [
-    {value: 1, label: 'Science'},
-    {value: 2, label: 'Technology'},
-    {value: 3, label: 'Philosophy'},
-    {value: 4, label: 'Romance'}
+    {"value": 1, "label": "Science"},
+    {"value": 2, "label": "Technology"},
+    {"value": 3, "label": "Philosophy"},
+    {"value": 4, "label": "Romance"}
   ],
   "book": [
     {
