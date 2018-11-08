@@ -24,11 +24,6 @@
       "id": 5,
       "username": "santhosh",
       "password": "12345"
-    },
-    {
-      "id": 6,
-      "username": "nibin",
-      "password": "12345"
     }
   ],
   "user": [
@@ -79,6 +74,7 @@
       "id": "BK001",
       "likes": 5,
       "bookName": "The Lightning Thief",
+      "categoryId": 1,
       "comments": [
         {
           "description": "I like thsis book.",
@@ -98,6 +94,7 @@
       "id": "BK002",
       "likes": 3,
       "bookName": "The Sea of Monsters",
+      "categoryId": 2,
       "comments": [
         {
           "description": "I like thiss book.",
@@ -117,6 +114,7 @@
       "id": "BK003",
       "likes": 6,
       "bookName": "Sophie's World : The Greek Philosophers",
+      "categoryId": 1,
       "comments": [
         {
           "description": "I like this book.",
@@ -136,6 +134,7 @@
       "id": "BK004",
       "likes": 5,
       "bookName": "Lucene in Action, Second Edition",
+      "categoryId": 3,
       "comments": [
         {
           "description": "I like this book.",
@@ -155,6 +154,7 @@
       "id": "BK005",
       "likes": 2,
       "bookName": "Book 5",
+      "categoryId": 3,
       "comments": [
         {
           "description": "I like this book.",
@@ -174,6 +174,7 @@
       "id": "BK006",
       "likes": 7,
       "bookName": "Book 6",
+      "categoryId": 2,
       "comments": [
         {
           "description": "I like this book.",
@@ -193,6 +194,7 @@
       "id": "BK007",
       "likes": 3,
       "bookName": "Book 7",
+      "categoryId": 1,
       "comments": [
         {
           "description": "I like this book.",
@@ -212,6 +214,7 @@
       "id": "BK008",
       "likes": 4,
       "bookName": "Book 8",
+      "categoryId": 1,
       "comments": [
         {
           "description": "I like this book.",
@@ -231,6 +234,7 @@
       "id": "BK009",
       "likes": 9,
       "bookName": "Book 9",
+      "categoryId": 1,
       "comments": [
         {
           "description": "I like this book.",
@@ -250,6 +254,7 @@
       "id": "BK010",
       "likes": 4,
       "bookName": "Book 10",
+      "categoryId": 1,
       "comments": [
         {
           "description": "I like this book.",
