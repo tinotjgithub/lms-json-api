@@ -32,21 +32,24 @@
       "username": "titty",
       "fullName": "Titty Titty",
       "bookList": ["BK001", "BK002"],
-      "likedBooks": ["BK002", "BK001"]
+      "likedBooks": ["BK002", "BK001"],
+      "shelfedBooks": ["BK002", "BK001"]      
     },
     {
       "id": 2,
       "username": "tino",
       "fullName": "Tino Tino",
       "bookList": ["BK003", "BK004"],
-      "likedBooks": ["BK003"]
+      "likedBooks": ["BK003"],
+      "shelfedBooks": ["BK002", "BK003"] 
     },
     {
       "id": 3,
       "username": "krishna",
       "fullName": "Krishna Krishna",
       "bookList": ["BK005", "BK006"],
-      "likedBooks": ["BK006"]
+      "likedBooks": ["BK006"],
+      "shelfedBooks": ["BK003", "BK004"] 
     },
     {
       "id": 4,
@@ -60,7 +63,8 @@
       "username": "santhosh",
       "fullName": "Santhosh Santhosh",
       "bookList": ["BK009", "BK010"],
-      "likedBooks": ["BK009"]
+      "likedBooks": ["BK009"],
+      "shelfedBooks": ["BK004", "BK005"] 
     }
   ],
   "category": [
